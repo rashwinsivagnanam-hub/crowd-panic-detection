@@ -1,8 +1,22 @@
-*.pth
-*.mp4
-__pycache__/
+# Large datasets
 final_dataset/
 shanghaitech/
 umm_dataset/
 vf_final/
 violent_flows_frames/
+
+# Videos
+*.mp4
+*.avi
+
+# Models
+*.pth
+*.pt
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/|
