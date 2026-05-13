@@ -1,0 +1,8 @@
+*.pth
+*.mp4
+__pycache__/
+final_dataset/
+shanghaitech/
+umm_dataset/
+vf_final/
+violent_flows_frames/
